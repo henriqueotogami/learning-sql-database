@@ -25,3 +25,6 @@ WHERE states_acronym = 'PR'
 -- Command + Shift + E
 SELECT states.states_name, states_acronym, states_population
 FROM states WHERE states_acronym = 'SC'
+
+-- Command + Shift + E
+RENAME TABLE states TO brazilian_states
