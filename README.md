@@ -2,13 +2,13 @@
 
 # Aprendendo o SQL para Banco de Dados Relacionais
 
-<img width="auto" src="https://github.com/HenriqueMAP/learning-sql-database/blob/master/src/img/Learning-SQL-database.png?raw=true">
+<img width="auto" src="https://github.com/henriqueotogami/learning-sql-database/blob/master/src/img/Learning-SQL-database.png?raw=true">
 <br>
 <br>
-<img src="https://img.shields.io/github/issues/HenriqueMAP/learning-sql-database">
-<img src="https://img.shields.io/github/forks/HenriqueMAP/learning-sql-database">
-<img src="https://img.shields.io/github/stars/HenriqueMAP/learning-sql-database">
-<img src="https://img.shields.io/github/license/HenriqueMAP/learning-sql-database">
+<img src="https://img.shields.io/github/issues/henriqueotogami/learning-sql-database">
+<img src="https://img.shields.io/github/forks/henriqueotogami/learning-sql-database">
+<img src="https://img.shields.io/github/stars/henriqueotogami/learning-sql-database">
+<img src="https://img.shields.io/github/license/henriqueotogami/learning-sql-database">
 </div>
 <hr>
 
@@ -46,7 +46,7 @@ do curso de Java.
 
 > ### Caso você queira ajudar a melhorar este repositório, qualquer ajuda é bem vinda.
 
-- [x] Faça um **fork** deste repositório (https://github.com/HenriqueMAP/learning-sql-database/fork);
+- [x] Faça um **fork** deste repositório (https://github.com/henriqueotogami/learning-sql-database/fork);
 - [x] Crie um **branch** com as suas modificações ` git checkout -b meu-novo-recurso `;
 - [x] Faça um **commit** ` git commit -am 'Adicionando um novo recurso ...'`;
 - [x] Faça um **push** ` git push origin meu-novo-recurso ` ;
